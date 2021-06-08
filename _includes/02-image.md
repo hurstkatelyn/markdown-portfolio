@@ -1,1 +1,1 @@
-1[Photo of me] (pictures/signature photo.jpg
+1[Photo of me] (pictures/signature photo.jpg)
