@@ -1,1 +1,1 @@
-1[Photo of MSU symbol] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fa%2Fa7%2FMichigan_State_Athletics_logo.svg%2F1200px-Michigan_State_Athletics_logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMichigan_State_Spartans&tbnid=XCPhVHRBJXbtQM&vet=12ahUKEwjAy5Te0ojxAhUEYqwKHQKSBgwQMygAegUIARDXAQ..i&docid=FnHnRr54e8g1hM&w=1200&h=1383&q=michigan%20state%20symbol&ved=2ahUKEwjAy5Te0ojxAhUEYqwKHQKSBgwQMygAegUIARDXAQ) 
+1[Photo of me] (pictures/signature photo.jpg
