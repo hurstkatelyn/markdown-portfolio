@@ -1,3 +1,3 @@
-# ice cream
-# exercise
-# sleeping
+- ice cream
+- exercise
+- sleep
